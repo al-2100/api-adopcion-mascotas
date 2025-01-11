@@ -38,8 +38,8 @@ Una robusta API RESTful construida con Spring Boot que gestiona la adopción de 
 
 2. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/yourusername/pet-adoption-api.git
-   cd pet-adoption-api
+   git clone https://github.com/al-2100/api-adopcion-mascotas.git
+   cd api-adopcion-mascotas
    ```
 
 3. **Construir el proyecto**
