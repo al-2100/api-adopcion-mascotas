@@ -15,7 +15,7 @@ Una robusta API RESTful construida con Spring Boot que gestiona la adopción de 
 - **Monitoreo**: Integración con Spring Boot Actuator.
 - **Pruebas**: Pruebas unitarias con MockMvc para operaciones CRUD.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Backend**: Java 21, Spring Boot 3.4.1
 - **Base de Datos**: PostgreSQL (Producción), H2 (Desarrollo)
@@ -23,7 +23,7 @@ Una robusta API RESTful construida con Spring Boot que gestiona la adopción de 
 - **Pruebas**: JUnit 5, MockMvc
 - **Monitoreo**: Spring Boot Actuator
 
-## 📝 Documentación
+## Documentación
 
 - [Guía de Instalación](./docs/INSTALLATION.md)
 - [Documentación de la API](./docs/API.md)
@@ -54,7 +54,7 @@ Una robusta API RESTful construida con Spring Boot que gestiona la adopción de 
 
 La API estará disponible en `http://localhost:8080`
 
-## 🔐 Credenciales por defecto de Administrador
+## Credenciales por defecto de Administrador
 
 Utiliza las siguientes credenciales para acceder a los endpoints protegidos de la API por primera vez:
 ```
@@ -62,7 +62,7 @@ Email: admin@admin.com
 Password: adminPassword
 ```
 
-## 📦 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 src/
